@@ -13,4 +13,4 @@ python-dotenv==1.0.1
 setuptools==68.2.2
 Werkzeug==3.0.1
 wheel==0.41.2
-json
+
